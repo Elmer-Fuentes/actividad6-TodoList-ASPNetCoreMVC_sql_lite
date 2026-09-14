@@ -1,5 +1,5 @@
 # TodoList MVC - Actividad 6
-Proyecto ASP.NET Core MVC (.NET 8) con SQLite, Git y Docker.
+Proyecto ASP.NET Core MVC (.NET 10) con SQLite, Git y Docker.
 
 ## Versiones incluidas
 El repositorio incluye los tags `v1.0` y `v2.0`.
