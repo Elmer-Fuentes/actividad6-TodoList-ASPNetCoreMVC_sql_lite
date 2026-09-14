@@ -56,3 +56,6 @@ docker rm todolist-749023230907
 docker run -d --name todolist-749023230907 --restart unless-stopped -p PUERTO_ASIGNADO:8080 -v todolist-data:/data TU_USUARIO_DOCKERHUB/749023230907:1.0
 ```
 No publiques contraseñas, tokens ni credenciales en Git.
+
+## Mejora v2.0
+Incluye buscador por título/descripción, filtro por estado y resumen estadístico.

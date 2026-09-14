@@ -1,0 +1,9 @@
+COMANDOS PARA GITHUB
+
+git remote add origin URL_DE_TU_REPOSITORIO
+git push -u origin main
+git push origin --tags
+
+Ver v1: git checkout v1.0
+Ver v2: git checkout v2.0
+Regresar a main: git checkout main
