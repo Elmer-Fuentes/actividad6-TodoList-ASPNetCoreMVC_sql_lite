@@ -1,0 +1,13 @@
+# Checklist de evidencias
+- Repositorio Git con código, Dockerfile y README.
+- Docker Hub con `749023230907:1.0` y `749023230907:2.0`.
+- v1 local funcionando.
+- `docker images`.
+- `docker push`.
+- conexión SSH y despliegue.
+- `docker ps`.
+- v1 en servidor.
+- v2 en servidor.
+- actualización 1.0 -> 2.0.
+- rollback 2.0 -> 1.0.
+- `docker logs todolist-749023230907`.
